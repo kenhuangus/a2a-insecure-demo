@@ -104,7 +104,7 @@ This project demonstrates how SQL injection (SQLi) vulnerabilities can be exploi
 
 ---
 
-## 4. Step-by-Step: How to Run Everything (for Absolute Beginners)
+## 4. Step-by-Step: How to Run Everything
 
 ### **A. Setup**
 1. **Open a terminal** (Command Prompt or PowerShell).
