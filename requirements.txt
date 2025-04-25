@@ -1,0 +1,4 @@
+# Requirements for a2a-attack-client.py and a2a-vulnerable-server.py
+requests
+Flask==2.2.5
+Werkzeug==2.3.0
